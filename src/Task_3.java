@@ -10,7 +10,7 @@ public class Task_3 {
         Scanner cn = new Scanner(System.in);
 
         for(int i = 0; i < arr.length; i++) {
-            out.print("Введите значения массива(целые числа): ");
+            out.print("Введите значение массива(целое число): ");
             int value = cn.nextInt();
             arr[i] = value;
         }
