@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import static java.lang.System.*;
 
+// Составить алгоритм: если введенное число больше 7, то вывести “Привет”
+
 public class Task_1 {
     public static void main(String[] args) {
         Scanner cn = new Scanner(System.in);
